@@ -2,7 +2,7 @@ Fixes #<issue number>
 
 --------
 
-##### Todo
+##### Todo:
 
 - [ ] <task description>
 - [ ] <task description>
